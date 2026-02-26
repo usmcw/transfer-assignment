@@ -4,3 +4,4 @@
 
 
 # Weaknesses
+- Does not work well with large files
